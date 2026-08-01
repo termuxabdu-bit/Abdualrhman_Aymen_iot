@@ -1,0 +1,9 @@
+===== Hall AC =====
+Device ID: Hall_AC
+Status: ON
+Temperature: 26°C
+
+===== Room AC =====
+Device ID: Room_AC
+Status: ON
+Temperature: 22°C
